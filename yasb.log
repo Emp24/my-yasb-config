@@ -671,3 +671,67 @@ AttributeError: module 'core.widgets.yasb.taskbar' has no attribute 'BluetoothWi
 2025-02-11 22:08:23 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
 2025-02-11 22:08:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
 2025-02-11 22:08:23 DEBUG _windows.py:192: Thread started
+2025-02-11 22:17:14 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:18:08 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:18:14 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:18:23 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:18:23.391055
+2025-02-11 22:18:40 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:18:49 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:19:21 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:19:55 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:19:55 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:19:55 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:19:55.258546
+2025-02-11 22:19:55 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:19:55 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:19:55 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:19:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:19:55 DEBUG _windows.py:192: Thread started
+2025-02-11 22:20:43 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:20:46 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:20:58 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:21:19 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:21:19 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:21:19 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:21:19.671793
+2025-02-11 22:21:19 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:21:20 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:21:20 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:21:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:21:20 DEBUG _windows.py:192: Thread started
+2025-02-11 22:21:56 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:21:56 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:21:56 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:21:56.119031
+2025-02-11 22:21:56 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:21:56 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:21:56 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:21:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:21:56 DEBUG _windows.py:192: Thread started
+2025-02-11 22:22:26 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:22:26 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:22:26 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:22:26.821099
+2025-02-11 22:22:27 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:22:27 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:22:27 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:22:27 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:22:27 DEBUG _windows.py:192: Thread started
+2025-02-11 22:23:31 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:24:41 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:24:43 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:26:22 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:26:40 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:27:10 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:27:59 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:28:05 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:28:39 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:28:45 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:10 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:11 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:15 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:19 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:27 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:30 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:29:50 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:30:00 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:31:38 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:32:26 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:32:26.815450
+2025-02-11 22:32:59 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:33:02 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.

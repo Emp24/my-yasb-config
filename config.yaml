@@ -32,10 +32,10 @@ bars:
       width: "100%"
       height: 30
     padding:
-      top: 0
-      left: 0
+      top: 2
+      left: 4
       bottom: 0
-      right: 0
+      right: 4
     widgets:
       left: ["home", "active_window", "cpu"]
       center: ["clock", "weather"]
@@ -54,7 +54,7 @@ widgets:
   home:
     type: "yasb.home.HomeWidget"
     options:
-      label: "<span>\udb81\udf17</span>"
+      label: "Emp"
       menu_list:
         - { title: "Emp", path: "~" }
         - { title: "Download", path: "~\\Downloads" }
@@ -67,7 +67,7 @@ widgets:
   home2:
     type: "yasb.home.HomeWidget"
     options:
-      label: "<span>\udb81\udf17</span>"
+      label: "Power"
       alignment: "right"
       # menu_list:
       #   - { title: "User Home", path: "~" }
@@ -321,3 +321,21 @@ widgets:
       histogram_num_columns: 8
       callbacks:
         on_right: "exec cmd /c Taskmgr"
+  github:
+    type: "yasb.github.GithubWidget"
+    options:
+      label: "<span>\ueba1</span>"
+      label_alt: "Notifications {data}" # {data} return number of unread notification
+
+      max_notification: 20 # Max number of notification displaying in menu max: 50
+      only_unread: false # Show only unread or all notifications;
+      max_field_size: 54 # Max characters in title before truncation.
+      update_interval: 300 # Check for new notification in seconds
+      menu:
+        blur: True # Enable blur effect for the menu
+        round_corners: True # Enable round corners for the menu (this option is not supported on Windows 10)
+        round_corners_type: "normal" # Set the type of round corners for the menu (normal, small) (this option is not supported on Windows 10)
+        border_color: "System" # Set the border color for the menu (this option is not supported on Windows 10)
+        alignment: "right"
+        direction: "down"
+        distance: 6

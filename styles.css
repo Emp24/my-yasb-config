@@ -10,25 +10,29 @@ For more information about configuration options, please visit the Wiki https://
   --red: #f38ba8;
   --maroon: #eba0ac;
   --peach: #fab387;
-  --yellow: #f9e2af;
-  --green: #a6e3a1;
+  --yellow: #fabd2f;
+  --green: #98971a;
   --teal: #94e2d5;
   --sky: #89dceb;
   --sapphire: #74c7ec;
   --blue: #89b4fa;
   --lavender: #b4befe;
-  --text: #cdd6f4;
-  --subtext1: #bac2de;
-  --subtext0: #a6adc8;
+  --orange: #d65d0e;
+  /* --text: #cdd6f4; */
+
+  --text: #fabd2f;
+  --subtext1: #e7d7ad;
+  --subtext0: #e7d7ad;
   --overlay2: #9399b2;
   --overlay1: #7f849c;
   --overlay0: #6c7086;
   --surface2: #585b70;
   --surface1: #45475a;
   --surface0: #282936;
-  --base: #1e1e2e;
+  --base: #665c54;
   --mantle: rgba(24, 24, 37, 0.5);
-  --crust: rgba(17, 17, 27, 0.85);
+  /* --crust: rgba(17, 17, 27, 0.85); */
+  --crust: #32302f;
   --main: #10151d;
 }
 /* Global styles for ToolTip */
@@ -59,7 +63,7 @@ QToolTip {
   margin: 0;
 }
 .icon {
-  font-size: 16px;
+  font-size: 18px;
 }
 .widget .label {
   padding: 0px 2px;
@@ -202,10 +206,10 @@ QToolTip {
   font-size: 18px;
 }
 .microphone-widget .icon {
-  color: var(--mauve);
+  color: var(--yellow);
 }
 .volume-widget .icon {
-  color: var(--blue);
+  color: var(--yellow);
   margin: 1px 2px 0 0;
 }
 .weather-widget,
@@ -287,4 +291,16 @@ QToolTip {
 .home-menu:separator {
   height: 1px;
   background-color: rgba(128, 130, 158, 0.3);
+}
+.bluetooth-widget .icon {
+  color: var(--yellow);
+}
+.cpu-widget .icon {
+  color: var(--yellow);
+}
+.github-widget .icon {
+  color: var(--yellow);
+}
+.clock-widget .hover {
+  color: var(--yellow);
 }
