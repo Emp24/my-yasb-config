@@ -1,0 +1,673 @@
+2025-02-11 20:10:48 INFO log.py:21: Yasb v1.5.91
+2025-02-11 20:10:48 INFO config.py:59: Created default config file at C:\Users\Emp\.config\yasb\config.yaml
+2025-02-11 20:10:48 INFO config.py:73: Created default stylesheet at C:\Users\Emp\.config\yasb\styles.css
+2025-02-11 20:10:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 20:10:52 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:10:52.008819
+2025-02-11 20:10:52 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 20:10:52 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 20:10:53 INFO event_listener.py:52: Created named pipe yasb-87d8f7fa-e8a3-11ef-aa2a-6083e7abcefb
+2025-02-11 20:10:53 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-87d8f7fa-e8a3-11ef-aa2a-6083e7abcefb
+2025-02-11 20:10:53 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 20:10:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 20:10:53 DEBUG _windows.py:192: Thread started
+2025-02-11 20:10:53 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 20:16:56 INFO log.py:21: Yasb v1.5.91
+2025-02-11 20:16:57 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 20:16:57 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:16:57.180399
+2025-02-11 20:16:57 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 20:16:57 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 20:16:57 INFO event_listener.py:52: Created named pipe yasb-613c7912-e8a4-11ef-9604-6083e7abcefb
+2025-02-11 20:16:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-613c7912-e8a4-11ef-9604-6083e7abcefb
+2025-02-11 20:16:57 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 20:16:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 20:16:57 DEBUG _windows.py:192: Thread started
+2025-02-11 20:16:57 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 20:26:57 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:26:57.175899
+2025-02-11 20:36:57 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:36:57.172499
+2025-02-11 20:46:57 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:46:57.175825
+2025-02-11 20:49:23 INFO bar.py:99: Screen geometry changed. Updating position for bar (primary-bar_LG ULTRAGEAR_def0e156)
+2025-02-11 20:49:23 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1024, Screen Height: 768]
+2025-02-11 20:49:25 INFO bar.py:99: Screen geometry changed. Updating position for bar (primary-bar_LG ULTRAGEAR_def0e156)
+2025-02-11 20:49:25 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 20:56:57 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:56:57.174611
+2025-02-11 20:58:59 INFO log.py:21: Yasb v1.5.91
+2025-02-11 20:58:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 20:58:59 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:58:59.435764
+2025-02-11 20:58:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 20:58:59 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 20:58:59 INFO event_listener.py:52: Created named pipe yasb-409cbcc2-e8aa-11ef-8f8b-6083e7abcefb
+2025-02-11 20:58:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-409cbcc2-e8aa-11ef-8f8b-6083e7abcefb
+2025-02-11 20:58:59 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 20:58:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 20:58:59 DEBUG _windows.py:192: Thread started
+2025-02-11 20:58:59 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 20:59:03 INFO log.py:21: Yasb v1.5.91
+2025-02-11 20:59:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 20:59:03 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:59:03.327027
+2025-02-11 20:59:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 20:59:03 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 20:59:03 INFO event_listener.py:52: Created named pipe yasb-42ecc1b6-e8aa-11ef-939f-6083e7abcefb
+2025-02-11 20:59:03 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-42ecc1b6-e8aa-11ef-939f-6083e7abcefb
+2025-02-11 20:59:03 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 20:59:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 20:59:03 DEBUG _windows.py:192: Thread started
+2025-02-11 20:59:03 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 20:59:26 INFO log.py:21: Yasb v1.5.91
+2025-02-11 20:59:26 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 20:59:26 INFO weather.py:366: Fetched new weather data at 2025-02-11 20:59:26.577133
+2025-02-11 20:59:26 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 20:59:26 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 20:59:27 INFO event_listener.py:52: Created named pipe yasb-50d680a9-e8aa-11ef-9135-6083e7abcefb
+2025-02-11 20:59:27 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-50d680a9-e8aa-11ef-9135-6083e7abcefb
+2025-02-11 20:59:27 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 20:59:27 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 20:59:27 DEBUG _windows.py:192: Thread started
+2025-02-11 20:59:27 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:00:13 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:00:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:00:13 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:00:13.687109
+2025-02-11 21:00:13 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:00:13 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:00:14 INFO event_listener.py:52: Created named pipe yasb-6ce55e53-e8aa-11ef-9f11-6083e7abcefb
+2025-02-11 21:00:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6ce55e53-e8aa-11ef-9f11-6083e7abcefb
+2025-02-11 21:00:14 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:00:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:00:14 DEBUG _windows.py:192: Thread started
+2025-02-11 21:00:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:01:21 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:01:21 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:01:21 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:01:21.891146
+2025-02-11 21:01:21 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:01:22 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:01:22 INFO event_listener.py:52: Created named pipe yasb-958e86c9-e8aa-11ef-95fc-6083e7abcefb
+2025-02-11 21:01:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-958e86c9-e8aa-11ef-95fc-6083e7abcefb
+2025-02-11 21:01:22 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:01:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:01:22 DEBUG _windows.py:192: Thread started
+2025-02-11 21:01:22 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:01:51 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:01:51 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:01:51 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:01:51.617008
+2025-02-11 21:01:51 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:01:51 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:01:52 INFO event_listener.py:52: Created named pipe yasb-a744a614-e8aa-11ef-a2d1-6083e7abcefb
+2025-02-11 21:01:52 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a744a614-e8aa-11ef-a2d1-6083e7abcefb
+2025-02-11 21:01:52 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:01:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:01:52 DEBUG _windows.py:192: Thread started
+2025-02-11 21:01:52 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:01:54 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:01:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:01:55 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:01:55.024172
+2025-02-11 21:01:55 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:01:55 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:01:55 INFO event_listener.py:52: Created named pipe yasb-a94be5d1-e8aa-11ef-8c5b-6083e7abcefb
+2025-02-11 21:01:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a94be5d1-e8aa-11ef-8c5b-6083e7abcefb
+2025-02-11 21:01:55 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:01:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:01:55 DEBUG _windows.py:192: Thread started
+2025-02-11 21:01:55 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:01:59 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:01:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:01:59 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:01:59.417042
+2025-02-11 21:01:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:01:59 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:01:59 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:01:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:01:59 DEBUG _windows.py:192: Thread started
+2025-02-11 21:02:02 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:02:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:02:03 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:02:03.046109
+2025-02-11 21:02:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:02:03 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:02:03 INFO event_listener.py:52: Created named pipe yasb-ae168a29-e8aa-11ef-a4d3-6083e7abcefb
+2025-02-11 21:02:03 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ae168a29-e8aa-11ef-a4d3-6083e7abcefb
+2025-02-11 21:02:03 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:02:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:02:03 DEBUG _windows.py:192: Thread started
+2025-02-11 21:02:03 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:02:04 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:02:04 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:02:05 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:02:05.020505
+2025-02-11 21:02:05 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:02:05 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:02:05 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:02:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:02:05 DEBUG _windows.py:192: Thread started
+2025-02-11 21:02:13 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:02:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:02:13 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:02:13.832439
+2025-02-11 21:02:13 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:02:13 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:02:14 INFO event_listener.py:52: Created named pipe yasb-b480970c-e8aa-11ef-baa4-6083e7abcefb
+2025-02-11 21:02:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b480970c-e8aa-11ef-baa4-6083e7abcefb
+2025-02-11 21:02:14 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:02:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:02:14 DEBUG _windows.py:192: Thread started
+2025-02-11 21:02:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-02-11 21:02:58 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:02:58 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:02:58 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:02:58.356759
+2025-02-11 21:02:58 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:02:58 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:02:58 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:02:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:02:58 DEBUG _windows.py:192: Thread started
+2025-02-11 21:03:35 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:03:35 WARNING widget_builder.py:38: No widget config could be found for widget 'home
+2025-02-11 21:03:35 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:03:35 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:03:35.923988
+2025-02-11 21:03:36 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:03:36 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:03:36 ERROR widget_builder.py:77: Failed to add undefined widget(s)  - The widget "home" is undefined.
+2025-02-11 21:03:54 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:03:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:03:54 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:03:54.627127
+2025-02-11 21:03:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:03:54 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:03:55 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:03:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:03:55 DEBUG _windows.py:192: Thread started
+2025-02-11 21:04:17 ERROR config.py:90: The config file 'C:\Users\Emp\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- primary-bar:
+  - alignment:
+    - position:
+      - unallowed value left
+
+2025-02-11 21:04:21 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:04:21 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:04:21 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:04:21.669216
+2025-02-11 21:04:21 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:04:21 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:04:22 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:04:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:04:22 DEBUG _windows.py:192: Thread started
+2025-02-11 21:04:25 ERROR config.py:90: The config file 'C:\Users\Emp\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- primary-bar:
+  - alignment:
+    - position:
+      - unallowed value tops
+
+2025-02-11 21:04:25 ERROR config.py:90: The config file 'C:\Users\Emp\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- primary-bar:
+  - alignment:
+    - position:
+      - unallowed value tops
+
+2025-02-11 21:04:26 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:04:26 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:04:26 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:04:26.946929
+2025-02-11 21:04:27 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:04:27 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:04:27 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:04:27 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:04:27 DEBUG _windows.py:192: Thread started
+2025-02-11 21:04:32 ERROR bar_manager.py:54: Error loading config: while scanning a simple key
+  in "C:\Users\Emp\.config\yasb\config.yaml", line 17, column 7
+could not find expected ':'
+  in "C:\Users\Emp\.config\yasb\config.yaml", line 18, column 5
+2025-02-11 21:04:33 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:04:34 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:04:34 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:04:34.106964
+2025-02-11 21:04:34 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:04:34 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:04:34 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:04:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:04:34 DEBUG _windows.py:192: Thread started
+2025-02-11 21:04:38 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:04:38 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:04:38 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:04:38.804388
+2025-02-11 21:04:38 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:04:38 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:04:39 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:04:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:04:39 DEBUG _windows.py:192: Thread started
+2025-02-11 21:04:46 ERROR bar_manager.py:54: Error loading config: mapping values are not allowed here
+  in "C:\Users\Emp\.config\yasb\config.yaml", line 23, column 14
+2025-02-11 21:04:50 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:04:50 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:04:50 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:04:50.536726
+2025-02-11 21:04:50 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:04:50 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:04:50 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:04:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:04:50 DEBUG _windows.py:192: Thread started
+2025-02-11 21:04:54 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:04:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:04:54 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:04:54.449659
+2025-02-11 21:04:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:04:54 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:04:54 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:04:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:04:54 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:02 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:02 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:02 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:02.671127
+2025-02-11 21:05:02 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:02 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:03 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:03 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:06 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:06 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:06 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:06.111586
+2025-02-11 21:05:06 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:06 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:06 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:06 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:11 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:12 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:12 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:12.104558
+2025-02-11 21:05:12 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:12 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:12 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:12 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:14 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:15 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:15.037070
+2025-02-11 21:05:15 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:15 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:15 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:15 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:31 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:31 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:31 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:31.236917
+2025-02-11 21:05:31 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:31 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:31 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:31 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:42 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:42 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:42.442495
+2025-02-11 21:05:42 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:42 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:42 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:42 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:49 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:50 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:50 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:50.097040
+2025-02-11 21:05:50 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:50 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:50 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:50 DEBUG _windows.py:192: Thread started
+2025-02-11 21:05:59 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:05:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:05:59 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:05:59.152432
+2025-02-11 21:05:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:05:59 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:05:59 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:05:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:05:59 DEBUG _windows.py:192: Thread started
+2025-02-11 21:06:14 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:06:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:06:14 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:06:14.816910
+2025-02-11 21:06:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:06:14 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 28px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:06:15 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:06:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:06:15 DEBUG _windows.py:192: Thread started
+2025-02-11 21:06:20 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:06:20 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:06:20 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:06:20.170111
+2025-02-11 21:06:20 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:06:20 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:06:20 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:06:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:06:20 DEBUG _windows.py:192: Thread started
+2025-02-11 21:07:12 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:07:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:07:13 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:07:13.087364
+2025-02-11 21:07:13 WARNING widget_builder.py:38: No widget config could be found for widget 'bluetooth
+2025-02-11 21:07:13 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:07:13 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:07:13 ERROR widget_builder.py:77: Failed to add undefined widget(s)  - The widget "bluetooth" is undefined.
+2025-02-11 21:09:02 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:09:02 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:09:02 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:09:02.939440
+2025-02-11 21:09:03 ERROR widget_builder.py:64: Failed to import widget with type yasb.taskbar.BluetoothWidget
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widget_builder.py", line 43, in _build_widget
+AttributeError: module 'core.widgets.yasb.taskbar' has no attribute 'BluetoothWidget'
+2025-02-11 21:09:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:09:03 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:09:03 ERROR widget_builder.py:101: Failed to build widget(s) due to unknown widget type(s)  - bluetooth has unknown type "yasb.taskbar.BluetoothWidget"
+2025-02-11 21:09:23 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:09:23 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:09:23 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:09:23.206823
+2025-02-11 21:09:23 WARNING widget_builder.py:38: No widget config could be found for widget 'bluetooth
+2025-02-11 21:09:23 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:09:23 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:09:23 ERROR widget_builder.py:77: Failed to add undefined widget(s)  - The widget "bluetooth" is undefined.
+2025-02-11 21:09:41 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:09:41 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:09:41 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:09:41.596717
+2025-02-11 21:09:41 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:09:41 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:09:42 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:09:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:09:42 DEBUG _windows.py:192: Thread started
+2025-02-11 21:10:20 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:10:20 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:10:20 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:10:20.466764
+2025-02-11 21:10:20 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:10:20 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:10:20 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:10:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:10:20 DEBUG _windows.py:192: Thread started
+2025-02-11 21:10:39 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:10:39 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:10:39 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:10:39.602728
+2025-02-11 21:10:39 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:10:39 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:10:40 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - bluetooth
+      icon_size:
+      - unknown field
+      ignore_apps:
+      - unknown field
+      
+2025-02-11 21:13:24 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:13:24 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:13:24 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:13:24.896403
+2025-02-11 21:13:25 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:13:25 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:13:25 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:13:25 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:13:25 DEBUG _windows.py:192: Thread started
+2025-02-11 21:20:33 INFO tray.py:240: Reloading Application...
+2025-02-11 21:20:34 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:20:34 ERROR main.py:82: Another instance of the YASB is already running.
+2025-02-11 21:20:51 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:20:51 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:20:51 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:20:51.516628
+2025-02-11 21:20:51 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:20:51 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:20:52 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:20:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:20:52 DEBUG _windows.py:192: Thread started
+2025-02-11 21:22:31 INFO tray.py:245: Exiting Application...
+2025-02-11 21:22:31 DEBUG _windows.py:218: Stopping worker thread...
+2025-02-11 21:22:31 DEBUG _windows.py:201: Exiting thread
+2025-02-11 21:22:31 DEBUG _windows.py:75: Closing
+2025-02-11 21:22:31 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000233A07E39D0>. Removing link to WinEvent.EventObjectFocus.
+2025-02-11 21:22:31 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000233A07E39D0>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-11 21:22:33 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:22:33 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:22:33 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:22:33.746363
+2025-02-11 21:22:33 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:22:33 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:22:34 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:22:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:22:34 DEBUG _windows.py:192: Thread started
+2025-02-11 21:23:54 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:23:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:23:54 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:23:54.646784
+2025-02-11 21:23:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:23:54 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:23:55 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:23:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:23:55 DEBUG _windows.py:192: Thread started
+2025-02-11 21:24:06 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:24:06 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:24:06 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:24:06.730807
+2025-02-11 21:24:06 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:24:06 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:24:07 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:24:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:24:07 DEBUG _windows.py:192: Thread started
+2025-02-11 21:25:39 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:25:39 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:25:39 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:25:39.214475
+2025-02-11 21:25:39 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:25:39 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:25:39 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:25:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:25:39 DEBUG _windows.py:192: Thread started
+2025-02-11 21:25:59 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:25:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:25:59 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:25:59.732157
+2025-02-11 21:25:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:25:59 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:26:00 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:26:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:26:00 DEBUG _windows.py:192: Thread started
+2025-02-11 21:26:06 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:26:07 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:26:07 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:26:07.050343
+2025-02-11 21:26:07 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:26:07 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:26:07 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:26:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:26:07 DEBUG _windows.py:192: Thread started
+2025-02-11 21:26:14 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:26:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:26:15 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:26:15.017709
+2025-02-11 21:26:15 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:26:15 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:26:15 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:26:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:26:15 DEBUG _windows.py:192: Thread started
+2025-02-11 21:27:33 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:27:33 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:27:33 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:27:33.754249
+2025-02-11 21:27:33 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:27:33 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:27:34 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:27:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:27:34 DEBUG _windows.py:192: Thread started
+2025-02-11 21:27:42 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:27:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:27:42 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:27:42.744718
+2025-02-11 21:27:42 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:27:42 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:27:43 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:27:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:27:43 DEBUG _windows.py:192: Thread started
+2025-02-11 21:27:48 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:27:48 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:27:48 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:27:48.219506
+2025-02-11 21:27:48 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:27:48 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 24px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:27:48 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:27:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:27:48 DEBUG _windows.py:192: Thread started
+2025-02-11 21:28:08 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:28:08 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:28:08 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:28:08.345066
+2025-02-11 21:28:08 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:28:08 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:28:08 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:28:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:28:08 DEBUG _windows.py:192: Thread started
+2025-02-11 21:28:58 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:28:58 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:28:58 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:28:58.416177
+2025-02-11 21:28:58 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:28:58 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:28:58 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:28:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:28:58 DEBUG _windows.py:192: Thread started
+2025-02-11 21:29:10 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:29:10 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:29:10 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:29:10.262035
+2025-02-11 21:29:10 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:29:10 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:29:10 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:29:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:29:10 DEBUG _windows.py:192: Thread started
+2025-02-11 21:31:17 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:31:17 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:31:18 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:31:18.017546
+2025-02-11 21:31:18 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:31:18 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:31:18 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:31:18 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:31:18 DEBUG _windows.py:192: Thread started
+2025-02-11 21:32:32 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:32:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:32:32 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:32:32.844048
+2025-02-11 21:32:32 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:32:33 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:32:33 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:32:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:32:33 DEBUG _windows.py:192: Thread started
+2025-02-11 21:32:46 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:32:46 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:32:46 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:32:46.526230
+2025-02-11 21:32:46 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:32:46 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:32:46 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:32:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:32:46 DEBUG _windows.py:192: Thread started
+2025-02-11 21:34:21 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:34:21 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:34:21 WARNING widget_builder.py:38: No widget config could be found for widget 'calendar
+2025-02-11 21:34:21 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:34:21.115877
+2025-02-11 21:34:21 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:34:21 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:34:21 ERROR widget_builder.py:77: Failed to add undefined widget(s)  - The widget "calendar" is undefined.
+2025-02-11 21:34:32 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:34:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:34:32 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:34:32.903711
+2025-02-11 21:34:33 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:34:33 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:34:33 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:34:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:34:33 DEBUG _windows.py:192: Thread started
+2025-02-11 21:35:35 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:35:35 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:35:35 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:35:35.258743
+2025-02-11 21:35:35 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:35:35 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:35:35 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:35:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:35:35 DEBUG _windows.py:192: Thread started
+2025-02-11 21:45:35 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:45:35.271097
+2025-02-11 21:55:35 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:55:35.271385
+2025-02-11 21:56:36 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:56:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:56:36 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:56:36.125034
+2025-02-11 21:56:36 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:56:36 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:56:36 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:56:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:56:36 DEBUG _windows.py:192: Thread started
+2025-02-11 21:56:56 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:56:56 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:56:56 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:56:56.826278
+2025-02-11 21:56:56 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:56:56 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:56:57 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:56:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:56:57 DEBUG _windows.py:192: Thread started
+2025-02-11 21:57:01 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:57:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:57:01 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:57:01.446631
+2025-02-11 21:57:01 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:57:01 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:57:01 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:57:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:57:01 DEBUG _windows.py:192: Thread started
+2025-02-11 21:57:13 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:57:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:57:13 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:57:13.861091
+2025-02-11 21:57:13 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:57:14 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:57:14 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:57:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:57:14 DEBUG _windows.py:192: Thread started
+2025-02-11 21:57:32 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:57:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:57:32 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:57:32.762160
+2025-02-11 21:57:32 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:57:32 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:57:33 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:57:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:57:33 DEBUG _windows.py:192: Thread started
+2025-02-11 21:57:40 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:57:40 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:57:41 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:57:41.014199
+2025-02-11 21:57:41 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:57:41 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:57:41 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:57:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:57:41 DEBUG _windows.py:192: Thread started
+2025-02-11 21:57:48 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:57:48 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:57:49 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:57:49.016145
+2025-02-11 21:57:49 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:57:49 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:57:49 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:57:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:57:49 DEBUG _windows.py:192: Thread started
+2025-02-11 21:58:21 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:58:21 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:58:21 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:58:21.749788
+2025-02-11 21:58:21 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:58:21 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:58:22 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:58:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:58:22 DEBUG _windows.py:192: Thread started
+2025-02-11 21:59:06 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:59:06 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:59:06 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:59:06.365709
+2025-02-11 21:59:06 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:59:06 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:59:06 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:59:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:59:06 DEBUG _windows.py:192: Thread started
+2025-02-11 21:59:40 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:59:40 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:59:40 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:59:40.556021
+2025-02-11 21:59:40 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:59:40 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:59:40 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:59:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:59:40 DEBUG _windows.py:192: Thread started
+2025-02-11 21:59:57 INFO log.py:21: Yasb v1.5.91
+2025-02-11 21:59:57 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 21:59:57 INFO weather.py:366: Fetched new weather data at 2025-02-11 21:59:57.461693
+2025-02-11 21:59:57 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 21:59:57 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 21:59:57 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 21:59:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 21:59:57 DEBUG _windows.py:192: Thread started
+2025-02-11 22:03:16 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:03:19 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:03:38 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:03:41 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:04:09 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:04:13 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:04:18 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-11 22:06:52 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:06:52 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:06:52 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:06:52.609430
+2025-02-11 22:06:52 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:06:52 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:06:52 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:06:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:06:52 DEBUG _windows.py:192: Thread started
+2025-02-11 22:08:14 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:08:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:08:14 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:08:14.655003
+2025-02-11 22:08:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:08:14 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:08:15 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:08:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:08:15 DEBUG _windows.py:192: Thread started
+2025-02-11 22:08:23 INFO log.py:21: Yasb v1.5.91
+2025-02-11 22:08:23 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-11 22:08:23 INFO weather.py:366: Fetched new weather data at 2025-02-11 22:08:23.396517
+2025-02-11 22:08:23 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-02-11 22:08:23 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAGEAR [Bar Height: 30px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-11 22:08:23 INFO watcher.py:39: Created file watcher for path C:\Users\Emp\.config\yasb
+2025-02-11 22:08:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-11 22:08:23 DEBUG _windows.py:192: Thread started
